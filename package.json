@@ -1,0 +1,20 @@
+{
+  "name": "blogger",
+  "version": "1.0.0",
+  "description": "This is the complete blooger website create using html and css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaabirEsau/blogger.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JaabirEsau/blogger/issues"
+  },
+  "homepage": "https://github.com/JaabirEsau/blogger#readme"
+}
