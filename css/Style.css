@@ -80,7 +80,7 @@ span {
 
 p {
   font-family: var(--Lexend);
-  color: var(--text-light);
+  color: var(darkgrey);
 }
 
 /* ------x------- Global Classes -------x-------*/
@@ -180,7 +180,7 @@ main .site-title {
 main .site-title .site-background {
   padding-top: 10rem;
   text-align: center;
-  color: var(--bg-color);
+  color: var(black);
 }
 
 main .site-title h1,
@@ -191,12 +191,6 @@ h3 {
 main .site-title .btn {
   margin: 1.8rem;
   background: var(--sky);
-}
-
-main .site-title .btn:hover {
-  background: transparent;
-  border: 1px solid var(--white);
-  color: var(--white);
 }
 
 /* --------x------ Site title --------x------- */
