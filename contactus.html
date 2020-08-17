@@ -16,6 +16,7 @@
     <!-- Custom Style   -->
     <link rel="stylesheet" href="./css/contact.css" />
     <link rel="stylesheet" href="./style.css" />
+    <link rel="stylesheet" href="contact.css" />
   </head>
   <body>
     <!-------------contact me-------------->
@@ -23,16 +24,24 @@
       <div class="title">
         <h1>contact me form</h1>
       </div>
-      <div class="contact-form">
+      <div class="contact-form"></div>
         <div class="input-fields">
-          <input type="text" class="input" placeholder="Name" />
-          <input type="text" class="input" placeholder="Email Address" />
-          <input type="text" class="input" placeholder="Phone" />
-          <input type="text" class="input" placeholder="Subject" />
-        </div>
-        <div class="msg">
-          <textarea placeholder="Message"></textarea>
-          <div class="btn">send</div>
+          <!-- modify this form HTML and place wherever you want your form -->
+
+          <form action="https://formspree.io/xnqgyagb" method="POST">
+            <label style="color: white;">
+              Your Email:
+              <input type="text" name="_replyto" />
+            </label>
+            <label style="color: white;">
+              Message:
+              <textarea name="message"></textarea>
+            </label>
+
+            
+
+            <button type="submit">Send</button>
+          </form>
         </div>
       </div>
     </div>
