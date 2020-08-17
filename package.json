@@ -1,6 +1,6 @@
 {
   "name": "blogger",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This is the complete blooger website create using html and css",
   "main": "index.js",
   "scripts": {
