@@ -180,7 +180,7 @@ main .site-title {
 main .site-title .site-background {
   padding-top: 10rem;
   text-align: center;
-  color: var(black);
+  /*color: var(black);*/
 }
 
 main .site-title h1,
