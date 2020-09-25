@@ -170,11 +170,7 @@ p {
 
 /* --------------- Site title ---------------- */
 main .site-title {
-<<<<<<< HEAD
   background: linear-gradient(rgb(0 0 0 / 75%), rgb(0 0 0 / 67%)), url(../assets/gym\ pic1.jpg);;
-=======
-  background: url("../assets/gym\ pic1.jpg");
->>>>>>> a8079875b7fa28a8b2088fd576cecbb6398b30c0
   background-size: cover;
   height: 110vh;
   display: flex;
@@ -184,21 +180,14 @@ main .site-title {
 main .site-title .site-background {
   padding-top: 10rem;
   text-align: center;
-<<<<<<< HEAD
-  /*color: var(black);*/
-=======
   color: var(black);
->>>>>>> a8079875b7fa28a8b2088fd576cecbb6398b30c0
 }
 
 main .site-title h1,
 h3 {
   margin: 0.3rem;
-<<<<<<< HEAD
   color: white;
   text-decoration: underline;
-=======
->>>>>>> a8079875b7fa28a8b2088fd576cecbb6398b30c0
 }
 
 main .site-title .btn {
