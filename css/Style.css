@@ -170,7 +170,7 @@ p {
 
 /* --------------- Site title ---------------- */
 main .site-title {
-  background: linear-gradient(rgb(0 0 0 / 74%), rgb(0 0 0 / 67%)), url(../assets/gym\ pic1.jpg);;
+  background: linear-gradient(rgb(0 0 0 / 75%), rgb(0 0 0 / 67%)), url(../assets/gym\ pic1.jpg);;
   background-size: cover;
   height: 110vh;
   display: flex;
